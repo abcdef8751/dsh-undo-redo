@@ -1,0 +1,6 @@
+# Linked peer dependencies, created by hand next to the profile that loads this
+# package. Node resolves a linked package by its real path, so these must exist
+# locally — but they are links into a specific machine's install tree.
+node_modules/
+
+*.log
